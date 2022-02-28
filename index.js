@@ -1,3 +1,5 @@
+console.log("--------- 1 --------- \n");
+
 const great = (array, number) => {
   let result = array.filter((i) => i > number);
   return result;
